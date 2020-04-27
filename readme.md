@@ -19,4 +19,4 @@ weights_MLE.npy :       Contains the final weights of the trained model.
 ```
 ### Results:
 
-![Image Description](master/results/bbox/30.png)
+![Image Description](results/bbox/30.png)
